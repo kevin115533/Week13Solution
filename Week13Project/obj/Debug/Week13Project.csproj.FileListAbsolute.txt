@@ -1,0 +1,9 @@
+C:\Users\Kevin Tran\source\repos\Week13Solution\Week13Project\bin\Debug\Week13Project.exe.config
+C:\Users\Kevin Tran\source\repos\Week13Solution\Week13Project\bin\Debug\Week13Project.exe
+C:\Users\Kevin Tran\source\repos\Week13Solution\Week13Project\bin\Debug\Week13Project.pdb
+C:\Users\Kevin Tran\source\repos\Week13Solution\Week13Project\obj\Debug\Week13Project.csprojAssemblyReference.cache
+C:\Users\Kevin Tran\source\repos\Week13Solution\Week13Project\obj\Debug\Week13Project.frmCustomers.resources
+C:\Users\Kevin Tran\source\repos\Week13Solution\Week13Project\obj\Debug\Week13Project.Properties.Resources.resources
+C:\Users\Kevin Tran\source\repos\Week13Solution\Week13Project\obj\Debug\Week13Project.csproj.GenerateResource.cache
+C:\Users\Kevin Tran\source\repos\Week13Solution\Week13Project\obj\Debug\Week13Project.exe
+C:\Users\Kevin Tran\source\repos\Week13Solution\Week13Project\obj\Debug\Week13Project.pdb
